@@ -4,7 +4,7 @@ Kişisel portfolyo web sitem. HTML, CSS ve JavaScript ile geliştirildi.
 
 ## 🌐 Canlı Site
 
-[ardasavas.com](https://ardasavas.com)
+[ardasavaas.com](https://ardasavaas.com)
 
 ## 📄 İçerik
 
